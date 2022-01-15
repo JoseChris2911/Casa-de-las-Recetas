@@ -1,0 +1,60 @@
+.img-thumbnail{
+    border-radius: 45%;
+}
+.container-fluid{
+    background-image:url(img/navimage.jpg);
+}
+.img-fluid{
+    margin: 10px;
+}
+#buscador{
+    color: gray;
+}
+.formulario{
+    margin: 20px;
+}
+.form-label{
+    margin-top: 20px;
+}
+.contentrecetas{
+    margin: 20px;
+    
+    
+}
+#clickablefav{
+    background-color: gray;
+}
+#infoautor{
+    margin-left: 20px;
+}
+#buttonsprofile{
+    align-content: space-between;
+}
+.content{
+    background-color: darkseagreen;
+}
+.profile{
+    width: max-content;
+}
+label{
+    color: black;
+}
+#buscar{
+    margin-top: 10px;
+}
+.login{
+    margin: 30px;
+    height: 30rem;
+    
+}
+.login > .btn{
+    margin: 15px;
+    
+}
+.card{
+    margin-bottom: 20px;
+    align-self: center;
+    max-height: 50%;
+    display: inline-block;
+}
+
